@@ -1,8 +1,6 @@
 import React from "react";
 import styles from "./styles.module.css";
 
-<App />
-</BrowserRouter>
 const Main = () => {
 	const handleLogout = () => {
 		localStorage.removeItem("token");
